@@ -71,3 +71,9 @@ That should be all the changes for the httpd.conf file!
 
 - Apache can be a pain to compile and install. I use [ApacheHaus](https://www.apachehaus.com). You can also find a list of places to download apache pre-compiled (not pre-configured) for Windows [here.](https://httpd.apache.org/docs/current/platform/windows.html)
 
+## Other Sources (not necessarily updated and working)
+
+https://httpd.apache.org/docs/2.4/howto/cgi.html
+
+http://www.tutorialspoint.com/python/python_cgi_programming.htm
+
